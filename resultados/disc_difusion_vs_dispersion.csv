@@ -1,0 +1,3 @@
+﻿Mecanismo,Coeficiente (m²/s),σ tras 1 h (m),σ tras 24 h (m),Razón σ frente a D,Razón frente a D
+Difusión molecular D,1e-09,0.002683281572999748,0.013145341380123987,1.0,1.0
+Dispersión longitudinal Dx,50.0,600.0,2939.3876913398135,223606.79774997896,50000000000.0

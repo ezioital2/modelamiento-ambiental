@@ -1,0 +1,4 @@
+﻿Escenario,Dx (m²/s),k (h⁻¹),x_max (m),C_max (mg/m),σₓ (m),Masa remanente (mg),Ancho ±2σ (m)
+A: Advección,0.0,0.0,900.0,,0.0,1000.0,0.0
+B: Advección + dispersión,50.0,0.0,900.0,0.6649038006690544,600.0,1000.0,2400.0
+C: Advección + dispersión + transformación,50.0,0.05,900.0,0.6324760596587621,600.0,951.229424500714,2400.0

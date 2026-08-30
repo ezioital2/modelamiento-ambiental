@@ -1,0 +1,7 @@
+﻿Parámetro,Significado físico,Método de obtención,45. ¿Medible en campo?,46. ¿Estimable?,47. ¿Requiere calibración?,48. ¿De literatura?,Valor usado en la práctica
+u,Velocidad media de desplazamiento del agua y del contaminante,Aforo (caudal / área de la sección) o medición directa con correntómetro o ADCP,Sí,Sí,Rara vez,Poco recomendable,"0,25 m/s (valor de la práctica)"
+D,Coeficiente de difusión molecular; transporte por agitación térmica de las moléculas,"Literatura, ensayos de laboratorio o correlaciones según el contaminante y la temperatura",No,Sí,No,Sí,1×10⁻⁹ m²/s
+Dx,Coeficiente de dispersión longitudinal; ensanchamiento por advección diferencial y turbulencia,"Ensayos con trazadores (método de momentos), fórmulas empíricas y calibración del modelo",Indirectamente,Sí,Sí,Con precaución,≈51 m²/s (Actividad 3); 50 m²/s adoptado
+k,Constante de transformación de primer orden (degradación biótica/abiótica),"Ensayos de degradación, series temporales de concentración o calibración",Indirectamente,Sí,Sí,Como valor inicial,"0,05 h⁻¹ / 0,06931 d⁻¹"
+C₀,Concentración inicial del contaminante en la fuente,Muestreo y análisis fisicoquímico en el punto de vertido,Sí,No,No,No,10 y 20 mg/L
+M,Masa total de contaminante liberada al sistema,Volumen o caudal de la descarga × concentración del efluente,Sí,Sí,A veces,No,1000 mg

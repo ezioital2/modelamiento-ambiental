@@ -1,0 +1,7 @@
+﻿Parámetro,Valor,Unidad
+Constante de transformación k,0.05,h⁻¹
+Vida media t₁/₂ = ln2 / k,13.862943611198904,h
+Vida media en días,0.577622650466621,d
+Tiempo para 90 % de remoción (ln10/k),46.051701859880914,h
+Tiempo para 99 % de remoción (ln100/k),92.10340371976183,h
+Tiempo de vida medio 1/k (tiempo característico),20.0,h

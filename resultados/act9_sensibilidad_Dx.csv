@@ -1,0 +1,5 @@
+﻿Dx (m²/s),σₓ (m),C_max (mg/m),Ancho ±2σ (m),Comportamiento
+0.0,0.0,,0.0,Sin dispersión (pulso puntual ideal)
+50.0,600.0,0.6324760596587621,2400.0,Dispersión moderada
+100.0,848.5281374238571,0.44722811072285806,3394.1125496954282,Mayor ensanchamiento
+200.0,1200.0,0.31623802982938104,4800.0,Mayor ensanchamiento

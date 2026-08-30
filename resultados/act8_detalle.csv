@@ -1,0 +1,9 @@
+﻿Concepto,Valor,Unidad
+35. C_max escenario B,0.6649038006690544,mg/m
+35. C_max escenario C,0.6324760596587621,mg/m
+"36. Posición del máximo (A, B y C)",900.0,m
+37. σₓ escenarios B y C,600.0,m
+38. Factor de supervivencia e^(−k·t),0.951229424500714,-
+38. Pérdida absoluta de C_max,0.03242774101029233,mg/m
+38. Pérdida relativa de C_max,4.877057549928601,%
+38. Masa transformada en 1 h,48.77057549928598,mg

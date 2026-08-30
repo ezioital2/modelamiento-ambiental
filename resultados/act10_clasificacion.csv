@@ -1,0 +1,5 @@
+﻿Categoría,Parámetros
+45. Medibles directamente en campo,"u, C₀, M"
+46. Estimables (ensayos o correlaciones),"D, Dx, k"
+47. Requieren calibración,Dx principalmente; k con frecuencia
+48. Obtenibles de literatura,D (fiable); k y Dx solo como valores iniciales

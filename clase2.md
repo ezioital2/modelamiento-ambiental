@@ -36,3 +36,8 @@ coeficiente de la vida media : t = ln(2)/k
  dc/dt + u dc/dx + kC = 0
 
  C = c° * e ^-k*x/u + u*t
+
+ ## ecuación final
+ dC/dx + u dc/dx = D* d²C/dx²-kc
+
+ C(x*t) = M/raiz(4pi*Dt)* e^-((x-ut)²/4dt)* e^(-kt)

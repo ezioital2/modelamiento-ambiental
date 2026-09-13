@@ -1,0 +1,4 @@
+﻿Especie,BCF (L/kg),k2 (1/d),k1 = BCF·k2 (L/kg/d),t95 equilibrio (d)
+Alga (P. subcapitata),46,2.0,92.0,1.5
+Daphnia magna,25,1.0,25.0,3.0
+Trucha (O. mykiss),10,0.3,3.0,10.0

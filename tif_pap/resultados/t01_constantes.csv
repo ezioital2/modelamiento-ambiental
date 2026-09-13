@@ -1,0 +1,22 @@
+﻿Grupo,Parámetro,Valor,Unidad,Fuente
+PAP,Peso molecular,109.13,g/mol,documento
+PAP,K_H (Henry),2.01e-05,Pa·m³/mol,documento
+PAP,log Koc,1.96,-,documento
+PAP,log Kow,0.04,-,documento
+PAP,BCF medido,10–46,L/kg,documento
+Ingreso,Q efluente PTAR,1.5,m³/s,documento
+Ingreso,Q río (base),12.0,m³/s,documento
+Ingreso,C efluente,0.005–0.011,mg/L,documento
+Ingreso,W Perturbado,1000.0,g/d,documento
+Hidráulica,Ancho B,20.0,m,documento (15–25)
+Hidráulica,n Manning,0.04,-,supuesto
+Hidráulica,Pendiente S,0.004,m/m,supuesto
+Hidráulica,Longitud del tramo,10000.0,m,supuesto
+Destino,t½ biodegradación (20 °C),60.0,d,supuesto
+Destino,t½ fotólisis (media diaria),10.0,d,supuesto
+Destino,t½ hidrólisis,365.0,d,supuesto
+Destino,foc sólidos,0.02,-,supuesto
+Destino,v sedimentación,1.0,m/d,supuesto
+Toxicidad,NOEC mínimo (alga),0.036,mg/L,documento
+Toxicidad,Factor de aplicación,10,-,documento
+Toxicidad,PNEC,0.0036,mg/L,documento

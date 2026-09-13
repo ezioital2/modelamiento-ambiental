@@ -1,0 +1,41 @@
+﻿Clave,Valor,Unidad,Descripción
+W_min,648.0,g/d,Carga mínima
+W_max,1425.6000000000001,g/d,Carga máxima
+hid_h,0.6145553206532094,m,Hidráulica base: h
+hid_u,1.0983551477229814,m/s,Hidráulica base: u
+hid_DL,55.620166191930615,m²/s,Hidráulica base: DL
+hid_TRH_h,2.5290342413712326,h,Hidráulica base: TRH_h
+k_total,0.08047455142693093,1/d,k total nominal (15 °C)
+fug_agua,99.86693366731834,%,Fracción del PAP en agua (nivel III)
+PNEC,0.0036,mg/L,PNEC = 0.036/10
+C0_emp,0.0008573388203017832,mg/L,C0 empírico (W=1000 g/d)
+HQ_emp,0.2381496723060509,-,HQ empírico (W=1000 g/d)
+HQ_emp_max,0.3395061728395062,-,HQ empírico máximo (W=1426 g/d)
+W_critica,4199.04,g/d,Carga que produce HQ = 1 en estiaje
+C_uch_media,0.0007563852898089823,mg/L,Procesos: C media anual en Uchumayo
+C_uch_max,0.001073697628777494,mg/L,Procesos: C máx. horaria en Uchumayo
+HQ_proc_max,0.30280073205817754,-,Procesos: HQ máximo horario
+frac_exportada,99.15630575097565,%,Fracción de W que sale por advección
+dB_Pert_Fitoplancton,-0.00010395591130141213,%,Perturbado: cambio de biomasa Fitoplancton
+dB_Pert_Daphnia,1.174933914604992e-05,%,Perturbado: cambio de biomasa Daphnia
+dB_Pert_Trucha,-0.0025939433588084704,%,Perturbado: cambio de biomasa Trucha
+dB_Estr_Fitoplancton,-0.8125200913104202,%,Estrés (100×W): cambio de biomasa Fitoplancton
+dB_Estr_Daphnia,-1.8029769339665602,%,Estrés (100×W): cambio de biomasa Daphnia
+dB_Estr_Trucha,-10.32557853060373,%,Estrés (100×W): cambio de biomasa Trucha
+MC_P5,0.00030294985668021885,mg/L,Monte Carlo: P5 de C en Uchumayo
+MC_P95,0.0011052924386397468,mg/L,Monte Carlo: P95 de C en Uchumayo
+NSE_Empírico (dilución),0.8358976979726466,-,NSE validación: Empírico (dilución)
+RMSE_Empírico (dilución),0.00010025596765992769,mg/L,RMSE validación: Empírico (dilución)
+NSE_Regresión potencial,0.9276640466399773,-,NSE validación: Regresión potencial
+RMSE_Regresión potencial,6.656255764879378e-05,mg/L,RMSE validación: Regresión potencial
+NSE_Procesos (nominal),0.8396472820499161,-,NSE validación: Procesos (nominal)
+RMSE_Procesos (nominal),9.910397159269263e-05,mg/L,RMSE validación: Procesos (nominal)
+NSE_IA pura (RF),0.9200701495646723,-,NSE validación: IA pura (RF)
+RMSE_IA pura (RF),6.996927865214686e-05,mg/L,RMSE validación: IA pura (RF)
+NSE_Integrado (procesos + RF),0.927652668144652,-,NSE validación: Integrado (procesos + RF)
+RMSE_Integrado (procesos + RF),6.656779261103627e-05,mg/L,RMSE validación: Integrado (procesos + RF)
+NSE_Techo: realidad sin error analítico,0.9468156259552627,-,NSE validación: Techo: realidad sin error analítico
+RMSE_Techo: realidad sin error analítico,5.707486888750093e-05,mg/L,RMSE validación: Techo: realidad sin error analítico
+cobertura_P5_P95,87.16666666666667,%,Cobertura del intervalo P5–P95 (integrado)
+C_int_media,0.000857602655772686,mg/L,Integrado: C media anual en Uchumayo
+HQ_int_P95_max,0.3731600994764565,-,Integrado: HQ máximo (límite P95)
